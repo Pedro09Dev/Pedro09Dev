@@ -48,7 +48,7 @@ I'm a **Grad Student🎓 [@ The Ohio State University 🅾️](https://www.unijo
 ### 🚀 Quick Stats
 <p align="center">
 
-![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/aura_dark/1-repos-per-language.svg)
+[![Pedro09Dev Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro09Dev&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
 </p>
 
